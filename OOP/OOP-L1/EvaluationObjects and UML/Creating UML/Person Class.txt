@@ -1,0 +1,31 @@
+
+Person Class
+Attributes
+(-) height: double
+(-) weight: double
+(-) age: int
+(-) birthDay: String
+(-) firstName: String
+(-) lastName: String
+
+ Behaviours
+(+) die(): void
+(+) getOlder(): void
+(+) playVideoGame(vGName: String, type: String, amtTime: int): void
+(+) readBook(title: String, amtTime: int): void
+(+) eatFood(food: String): int
+(+) getHeight(): double
+(+) getWeight(): double
+(+) getAge(): int
+(+) getBirthDay(): String
+(+) setHeight(): void
+(+) setWeight(): void 
+(+) startMouvement(direction: String): void
+(+) endMouvement (time: int): void
+(+) run(speed: int, time: int): int
+(+) workOut(intensity: int, amt: int): int
+(+) sleep(time: int): boolean
+(+) rest(surface: String): void
+
+Constructor
+Person (h: double, w: double, ag: int, bd: String, fname: String, lname:String)

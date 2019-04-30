@@ -1,0 +1,2 @@
+Bogosort is a sort that randomly shuffles the array, then checks to see if it is sorted. This algorithm continues until the array is sorted.
+There is a deterministic version of bogosort that iteratively goes through all permutations of the array, so it will find the sorted array eventually. This version is more difficult to implement.

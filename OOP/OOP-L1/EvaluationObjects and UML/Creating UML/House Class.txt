@@ -1,0 +1,23 @@
+
+House Class
+Attributes
+(-) street: String
+(-) houseNumber: int 
+(-) size: int
+(-) stories: int
+(-) country: String
+(-) houseColour: String
+(-) age: int
+
+ Behaviours
+(+) getAdress(): String
+(+) getSize(): int
+(+) paint(colour: String): void
+(+) getOlder(): void
+(+) sell(): int
+(+) renovate(location: String): boolean
+(+) lockDoors(): boolean
+(+) setIndoorTemp(amt: int): boolean
+
+Constructor
+(+) House (s: String, hNum: int, siz: int, st: int, coun: String, hc: String, ag: int)

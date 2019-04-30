@@ -1,0 +1,1 @@
+20 Mar 2019 1:35:28 GMT: Log 'EclipseCompiler.txt' opened: 20 Mar 2019 1:35:28 GMT with name I:\ICS4U0\GUI 1\ErfanYeg_GUIPart1\EclipseCompiler.txt

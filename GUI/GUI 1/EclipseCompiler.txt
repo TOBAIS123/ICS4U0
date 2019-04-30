@@ -1,0 +1,2 @@
+29 Mar 2019 23:55:46 GMT: Log 'EclipseCompiler.txt' opened: 29 Mar 2019 23:55:46 GMT with name I:\ICS4U0\GUI\GUI 1\EclipseCompiler.txt
+29 Mar 2019 23:56:00 GMT: Log 'EclipseCompiler.txt' opened: 29 Mar 2019 23:56:00 GMT with name I:\ICS4U0\GUI\GUI 1\EclipseCompiler.txt

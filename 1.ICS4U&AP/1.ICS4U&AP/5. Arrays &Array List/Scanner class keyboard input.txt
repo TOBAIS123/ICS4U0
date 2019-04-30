@@ -1,0 +1,25 @@
+
+import java.util.Scanner;
+
+public class Test {
+    public static void main(String args[]){
+
+    Scanner in = new Scanner(System.in);
+
+    //For string
+
+    String text= in.nextLine();
+
+    System.out.println(text);
+
+    //for int
+
+    int num= in.nextInt();
+
+    System.out.println(num);
+    
+    //for double
+    double y= in.nextDouble();
+    System.out.println(y);
+    }
+}

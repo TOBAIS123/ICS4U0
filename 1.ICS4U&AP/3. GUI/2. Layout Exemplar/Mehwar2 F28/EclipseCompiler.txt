@@ -1,0 +1,229 @@
+24 Mar 2019 16:28:23 GMT: Log 'EclipseCompiler.txt' opened: 24 Mar 2019 16:28:23 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+24 Mar 2019 16:28:31 GMT: diagnostics = javax.tools.DiagnosticCollector@3cd63
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9c87ce
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java]
+24 Mar 2019 16:28:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cf6cb5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+24 Mar 2019 16:28:34 GMT: Compiler call returned
+24 Mar 2019 16:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7eda51
+24 Mar 2019 16:28:34 GMT:  Kind = WARNING
+24 Mar 2019 16:28:34 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java LineNo = 13 ColNo = 14 Msg = 'The serializable class CardLayoutByMehwar does not declare a static final serialVersionUID field of type long'
+24 Mar 2019 16:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11c1197
+24 Mar 2019 16:28:34 GMT:  Kind = WARNING
+24 Mar 2019 16:28:34 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java LineNo = 3 ColNo = 8 Msg = 'The import java.awt.event is never used'
+24 Mar 2019 16:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bae277
+24 Mar 2019 16:28:34 GMT:  Kind = WARNING
+24 Mar 2019 16:28:34 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\SpringLayoutMehwar.java LineNo = 33 ColNo = 14 Msg = 'The serializable class SpringLayoutMehwar does not declare a static final serialVersionUID field of type long'
+24 Mar 2019 16:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12756de
+24 Mar 2019 16:28:34 GMT:  Kind = WARNING
+24 Mar 2019 16:28:34 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\SpringLayoutMehwar.java LineNo = 21 ColNo = 8 Msg = 'The import java.awt is never used'
+24 Mar 2019 16:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@63033c
+24 Mar 2019 16:28:34 GMT:  Kind = WARNING
+24 Mar 2019 16:28:34 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\GridBagLayoutMehwar.java LineNo = 30 ColNo = 14 Msg = 'The serializable class GridBagLayoutMehwar does not declare a static final serialVersionUID field of type long'
+24 Mar 2019 16:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17c340e
+24 Mar 2019 16:28:34 GMT:  Kind = WARNING
+24 Mar 2019 16:28:34 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\FlowLayoutTony.java LineNo = 29 ColNo = 14 Msg = 'The serializable class FlowLayoutTony does not declare a static final serialVersionUID field of type long'
+24 Mar 2019 16:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@167d8cc
+24 Mar 2019 16:28:34 GMT:  Kind = WARNING
+24 Mar 2019 16:28:34 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\FlowLayoutTony.java LineNo = 16 ColNo = 8 Msg = 'The import java.util is never used'
+24 Mar 2019 16:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5de618
+24 Mar 2019 16:28:34 GMT:  Kind = WARNING
+24 Mar 2019 16:28:34 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\GroupLayoutTony.java LineNo = 32 ColNo = 14 Msg = 'The serializable class GroupLayoutTony does not declare a static final serialVersionUID field of type long'
+24 Mar 2019 16:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4f630c
+24 Mar 2019 16:28:34 GMT:  Kind = WARNING
+24 Mar 2019 16:28:34 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\GroupLayoutTony.java LineNo = 11 ColNo = 8 Msg = 'The import java.awt is never used'
+24 Mar 2019 16:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8dea8f
+24 Mar 2019 16:28:34 GMT:  Kind = WARNING
+24 Mar 2019 16:28:34 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\GroupLayoutTony.java LineNo = 14 ColNo = 8 Msg = 'The import java.util is never used'
+27 Mar 2019 2:15:08 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:15:08 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+27 Mar 2019 2:16:59 GMT: diagnostics = javax.tools.DiagnosticCollector@672a35
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c29bec
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java]
+27 Mar 2019 2:16:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@169441b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+27 Mar 2019 2:16:59 GMT: Compiler call returned
+27 Mar 2019 2:16:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@429dcc
+27 Mar 2019 2:16:59 GMT:  Kind = WARNING
+27 Mar 2019 2:16:59 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java LineNo = 13 ColNo = 14 Msg = 'The serializable class CardLayoutByMehwar does not declare a static final serialVersionUID field of type long'
+27 Mar 2019 2:16:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ebd26
+27 Mar 2019 2:16:59 GMT:  Kind = WARNING
+27 Mar 2019 2:16:59 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java LineNo = 3 ColNo = 8 Msg = 'The import java.awt.event is never used'
+27 Mar 2019 2:17:10 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:17:10 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+27 Mar 2019 2:17:29 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:17:29 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+27 Mar 2019 2:18:29 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:18:29 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+27 Mar 2019 2:19:20 GMT: diagnostics = javax.tools.DiagnosticCollector@1d8ab1e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7eda51
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\GroupLayoutTony.java]
+27 Mar 2019 2:19:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@127a9cf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+27 Mar 2019 2:19:21 GMT: Compiler call returned
+27 Mar 2019 2:19:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12a1b20
+27 Mar 2019 2:19:21 GMT:  Kind = WARNING
+27 Mar 2019 2:19:21 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\GroupLayoutTony.java LineNo = 32 ColNo = 14 Msg = 'The serializable class GroupLayoutTony does not declare a static final serialVersionUID field of type long'
+27 Mar 2019 2:19:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a8ee0
+27 Mar 2019 2:19:21 GMT:  Kind = WARNING
+27 Mar 2019 2:19:21 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\GroupLayoutTony.java LineNo = 11 ColNo = 8 Msg = 'The import java.awt is never used'
+27 Mar 2019 2:19:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1047998
+27 Mar 2019 2:19:21 GMT:  Kind = WARNING
+27 Mar 2019 2:19:21 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\GroupLayoutTony.java LineNo = 14 ColNo = 8 Msg = 'The import java.util is never used'
+27 Mar 2019 2:19:38 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:19:38 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+27 Mar 2019 2:20:01 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:20:01 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+27 Mar 2019 2:20:21 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:20:21 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+28 Mar 2019 1:34:51 GMT: Log 'EclipseCompiler.txt' opened: 28 Mar 2019 1:34:51 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+28 Mar 2019 9:48:15 GMT: diagnostics = javax.tools.DiagnosticCollector@45f943
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c81350
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\AbsolutePositioningExample.java]
+28 Mar 2019 9:48:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d85b7b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28;I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+28 Mar 2019 9:48:17 GMT: Compiler call returned
+28 Mar 2019 9:48:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70dfe8
+28 Mar 2019 9:48:17 GMT:  Kind = WARNING
+28 Mar 2019 9:48:17 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java LineNo = 13 ColNo = 14 Msg = 'The serializable class CardLayoutByMehwar does not declare a static final serialVersionUID field of type long'
+28 Mar 2019 9:48:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1239c62
+28 Mar 2019 9:48:17 GMT:  Kind = WARNING
+28 Mar 2019 9:48:17 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java LineNo = 3 ColNo = 8 Msg = 'The import java.awt.event is never used'
+28 Mar 2019 9:48:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18c8f31
+28 Mar 2019 9:48:17 GMT:  Kind = WARNING
+28 Mar 2019 9:48:17 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\AbsolutePositioningExample.java LineNo = 11 ColNo = 14 Msg = 'The serializable class AbsolutePositioningExample does not declare a static final serialVersionUID field of type long'
+28 Mar 2019 9:49:18 GMT: Log 'EclipseCompiler.txt' opened: 28 Mar 2019 9:49:18 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+28 Mar 2019 9:56:53 GMT: Log 'EclipseCompiler.txt' opened: 28 Mar 2019 9:56:52 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+28 Mar 2019 10:06:41 GMT: Log 'EclipseCompiler.txt' opened: 28 Mar 2019 10:06:41 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+28 Mar 2019 10:08:26 GMT: Log 'EclipseCompiler.txt' opened: 28 Mar 2019 10:08:26 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+28 Mar 2019 22:47:13 GMT: Log 'EclipseCompiler.txt' opened: 28 Mar 2019 22:47:13 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+28 Mar 2019 23:05:17 GMT: Log 'EclipseCompiler.txt' opened: 28 Mar 2019 23:05:17 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\EclipseCompiler.txt
+29 Mar 2019 0:01:51 GMT: diagnostics = javax.tools.DiagnosticCollector@87e30
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13002d5
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\SpringLayoutMehwar.java, C:\Users\Owner\Desktop\New folder\OmPatelLayoutsApp.java, C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java]
+29 Mar 2019 0:01:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@168325c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28;C:\Users\Owner\Desktop\New folder;C:\Users\Owner\IdeaProjects\ICS4U0\src;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+29 Mar 2019 0:01:52 GMT: Compiler call returned
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1975eea
+29 Mar 2019 0:01:52 GMT:  Kind = WARNING
+29 Mar 2019 0:01:52 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\SpringLayoutMehwar.java LineNo = 33 ColNo = 14 Msg = 'The serializable class SpringLayoutMehwar does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f49a37
+29 Mar 2019 0:01:52 GMT:  Kind = WARNING
+29 Mar 2019 0:01:52 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\SpringLayoutMehwar.java LineNo = 21 ColNo = 8 Msg = 'The import java.awt is never used'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cbef0d
+29 Mar 2019 0:01:52 GMT:  Kind = WARNING
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\OmPatelLayoutsApp.java LineNo = 5 ColNo = 14 Msg = 'The serializable class OmPatelLayoutsApp does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@96f0e9
+29 Mar 2019 0:01:52 GMT:  Kind = WARNING
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\OmPatelLayoutsApp.java LineNo = 70 ColNo = 23 Msg = 'The value of the local variable flowLayout is not used'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b10536
+29 Mar 2019 0:01:52 GMT:  Kind = WARNING
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\OmPatelLayoutsApp.java LineNo = 75 ColNo = 24 Msg = 'The value of the local variable groupLayout is not used'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ee1c95
+29 Mar 2019 0:01:52 GMT:  Kind = WARNING
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 33 ColNo = 14 Msg = 'The serializable class SpringLayoutErfan does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18339e2
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 52 ColNo = 9 Msg = 'verticalDisplacement1 cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@59a83
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 53 ColNo = 9 Msg = 'horizontalDisplacement1 cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e0afc0
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 61 ColNo = 49 Msg = 'quitBtn cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15069d
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 61 ColNo = 80 Msg = 'mainFrame cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@116bd4
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 62 ColNo = 50 Msg = 'quitBtn cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a3957
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 62 ColNo = 83 Msg = 'mainFrame cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a14fd
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 64 ColNo = 9 Msg = 'mainFrame cannot be resolved'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c7d08f
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 65 ColNo = 9 Msg = 'mainFrame cannot be resolved'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10f4208
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 66 ColNo = 9 Msg = 'mainFrame cannot be resolved'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5825bf
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 67 ColNo = 9 Msg = 'mainFrame cannot be resolved'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fd6435
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 68 ColNo = 9 Msg = 'mainFrame cannot be resolved'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@349e8d
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 69 ColNo = 9 Msg = 'mainFrame cannot be resolved'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1628341
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 69 ColNo = 23 Msg = 'quitBtn cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5222cf
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 75 ColNo = 9 Msg = 'quitBtn cannot be resolved'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e9337c
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 79 ColNo = 57 Msg = 'verticalDisplacement1 cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18b08ba
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 80 ColNo = 55 Msg = 'horizontalDisplacement1 cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a8e281
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 103 ColNo = 9 Msg = 'horizontalDisplacement1 cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@177ee81
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 111 ColNo = 9 Msg = 'horizontalDisplacement1 cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1214ec0
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 119 ColNo = 9 Msg = 'verticalDisplacement1 cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@785dc6
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 127 ColNo = 9 Msg = 'verticalDisplacement1 cannot be resolved to a variable'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1171c22
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 138 ColNo = 9 Msg = 'mainFrame cannot be resolved'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a4f4a7
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\IdeaProjects\ICS4U0\src\SpringLayoutErfan.java LineNo = 139 ColNo = 9 Msg = 'mainFrame cannot be resolved'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d2f6dd
+29 Mar 2019 0:01:52 GMT:  Kind = WARNING
+29 Mar 2019 0:01:52 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java LineNo = 13 ColNo = 14 Msg = 'The serializable class CardLayoutByMehwar does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3a12ac
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java LineNo = 49 ColNo = 11 Msg = 'Type mismatch: cannot convert from SpringLayoutMehwar to SpringLayoutErfan'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11bf885
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\Mehwar2 F28\CardLayoutByMehwar.java LineNo = 63 ColNo = 11 Msg = 'Type mismatch: cannot convert from SpringLayoutMehwar to SpringLayoutErfan'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e23f0d
+29 Mar 2019 0:01:52 GMT:  Kind = WARNING
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\FlowLayoutOmPatel.java LineNo = 6 ColNo = 14 Msg = 'The serializable class FlowLayoutOmPatel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ef5032
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\FlowLayoutOmPatel.java LineNo = 142 ColNo = 11 Msg = 'Cannot refer to the non-final local variable alignDialog defined in an enclosing scope'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@109531
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\FlowLayoutOmPatel.java LineNo = 153 ColNo = 11 Msg = 'Cannot refer to the non-final local variable alignDialog defined in an enclosing scope'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4788a6
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\FlowLayoutOmPatel.java LineNo = 188 ColNo = 11 Msg = 'Cannot refer to the non-final local variable hDialog defined in an enclosing scope'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e3c634
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\FlowLayoutOmPatel.java LineNo = 199 ColNo = 11 Msg = 'Cannot refer to the non-final local variable hDialog defined in an enclosing scope'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@317cda
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\FlowLayoutOmPatel.java LineNo = 234 ColNo = 11 Msg = 'Cannot refer to the non-final local variable vDialog defined in an enclosing scope'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9adb70
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\FlowLayoutOmPatel.java LineNo = 245 ColNo = 11 Msg = 'Cannot refer to the non-final local variable vDialog defined in an enclosing scope'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ba60bd
+29 Mar 2019 0:01:52 GMT:  Kind = WARNING
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\GroupLayoutOmPatel.java LineNo = 5 ColNo = 14 Msg = 'The serializable class GroupLayoutOmPatel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d6d178
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\GroupLayoutOmPatel.java LineNo = 145 ColNo = 11 Msg = 'Cannot refer to the non-final local variable horizontalDialog defined in an enclosing scope'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@196b854
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\GroupLayoutOmPatel.java LineNo = 206 ColNo = 11 Msg = 'Cannot refer to the non-final local variable horizontalDialog defined in an enclosing scope'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10fa2cd
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\GroupLayoutOmPatel.java LineNo = 233 ColNo = 11 Msg = 'Cannot refer to the non-final local variable verticalDialog defined in an enclosing scope'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4f8e59
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\GroupLayoutOmPatel.java LineNo = 294 ColNo = 11 Msg = 'Cannot refer to the non-final local variable verticalDialog defined in an enclosing scope'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@36c679
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\GroupLayoutOmPatel.java LineNo = 330 ColNo = 11 Msg = 'Cannot refer to the non-final local variable gapDialog defined in an enclosing scope'
+29 Mar 2019 0:01:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d28af3
+29 Mar 2019 0:01:52 GMT:  Kind = ERROR
+29 Mar 2019 0:01:52 GMT: Name = C:\Users\Owner\Desktop\New folder\GroupLayoutOmPatel.java LineNo = 351 ColNo = 11 Msg = 'Cannot refer to the non-final local variable gapDialog defined in an enclosing scope'

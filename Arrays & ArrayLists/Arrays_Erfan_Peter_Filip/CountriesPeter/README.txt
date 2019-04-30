@@ -1,0 +1,1 @@
+On windows the text file might be formatted weirdly, please open through wordpad

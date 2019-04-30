@@ -1,0 +1,7 @@
+* Description of Algorithm
+Radix sort is a sorting algorithm that reorders a list of numbers based on the digits of the numbers. It works by putting successively grouping digits by either
+
+1 0001110 111111110101111101101101
+
+* Presentation Timeline
+**

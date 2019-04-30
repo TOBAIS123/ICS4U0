@@ -1,0 +1,107 @@
+27 Mar 2019 2:13:25 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:13:25 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\EclipseCompiler.txt
+27 Mar 2019 2:13:34 GMT: diagnostics = javax.tools.DiagnosticCollector@a2650c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b75a0a
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayoutsApp.java]
+27 Mar 2019 2:13:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10976d6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+27 Mar 2019 2:13:36 GMT: Compiler call returned
+27 Mar 2019 2:13:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ceb23f
+27 Mar 2019 2:13:36 GMT:  Kind = WARNING
+27 Mar 2019 2:13:36 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 19 ColNo = 14 Msg = 'The serializable class CardsWithDifferentLayouts does not declare a static final serialVersionUID field of type long'
+27 Mar 2019 2:13:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dc0ede
+27 Mar 2019 2:13:36 GMT:  Kind = WARNING
+27 Mar 2019 2:13:36 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 56 ColNo = 2 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+27 Mar 2019 2:13:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@651170
+27 Mar 2019 2:13:36 GMT:  Kind = WARNING
+27 Mar 2019 2:13:36 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 56 ColNo = 21 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+27 Mar 2019 2:13:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12f6a1d
+27 Mar 2019 2:13:36 GMT:  Kind = WARNING
+27 Mar 2019 2:13:36 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 56 ColNo = 17 Msg = 'Type safety: The constructor javax.swing.JComboBox(java.lang.Object[]) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+27 Mar 2019 2:13:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15aa3ca
+27 Mar 2019 2:13:36 GMT:  Kind = WARNING
+27 Mar 2019 2:13:36 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 324 ColNo = 4 Msg = 'The method show() from the type java.awt.Dialog is deprecated'
+27 Mar 2019 2:13:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@146fd01
+27 Mar 2019 2:13:36 GMT:  Kind = WARNING
+27 Mar 2019 2:13:36 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 345 ColNo = 4 Msg = 'The method show() from the type java.awt.Dialog is deprecated'
+27 Mar 2019 2:13:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1309ec8
+27 Mar 2019 2:13:36 GMT:  Kind = WARNING
+27 Mar 2019 2:13:36 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 366 ColNo = 4 Msg = 'The method show() from the type java.awt.Dialog is deprecated'
+28 Mar 2019 1:34:01 GMT: Log 'EclipseCompiler.txt' opened: 28 Mar 2019 1:34:01 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\EclipseCompiler.txt
+28 Mar 2019 1:34:27 GMT: Log 'EclipseCompiler.txt' opened: 28 Mar 2019 1:34:27 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\EclipseCompiler.txt
+28 Mar 2019 21:47:46 GMT: Log 'EclipseCompiler.txt' opened: 28 Mar 2019 21:47:46 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\EclipseCompiler.txt
+28 Mar 2019 21:54:43 GMT: diagnostics = javax.tools.DiagnosticCollector@177f37f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14b5ad5
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayoutsApp.java, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java, C:\Users\Owner\Downloads\OmPatelLayoutsApp.java]
+28 Mar 2019 21:54:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ca11a9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout;C:\Users\Owner\Downloads;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+28 Mar 2019 21:54:43 GMT: Compiler call returned
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@198f357
+28 Mar 2019 21:54:43 GMT:  Kind = WARNING
+28 Mar 2019 21:54:43 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 19 ColNo = 14 Msg = 'The serializable class CardsWithDifferentLayouts does not declare a static final serialVersionUID field of type long'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dd5398
+28 Mar 2019 21:54:43 GMT:  Kind = WARNING
+28 Mar 2019 21:54:43 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 56 ColNo = 2 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18b0dff
+28 Mar 2019 21:54:43 GMT:  Kind = WARNING
+28 Mar 2019 21:54:43 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 56 ColNo = 21 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bc4564
+28 Mar 2019 21:54:43 GMT:  Kind = WARNING
+28 Mar 2019 21:54:43 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 56 ColNo = 17 Msg = 'Type safety: The constructor javax.swing.JComboBox(java.lang.Object[]) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@287040
+28 Mar 2019 21:54:43 GMT:  Kind = WARNING
+28 Mar 2019 21:54:43 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 324 ColNo = 4 Msg = 'The method show() from the type java.awt.Dialog is deprecated'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@138aece
+28 Mar 2019 21:54:43 GMT:  Kind = WARNING
+28 Mar 2019 21:54:43 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 345 ColNo = 4 Msg = 'The method show() from the type java.awt.Dialog is deprecated'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6bb963
+28 Mar 2019 21:54:43 GMT:  Kind = WARNING
+28 Mar 2019 21:54:43 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\CardsWithDifferentLayouts.java LineNo = 366 ColNo = 4 Msg = 'The method show() from the type java.awt.Dialog is deprecated'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1355b2f
+28 Mar 2019 21:54:43 GMT:  Kind = WARNING
+28 Mar 2019 21:54:43 GMT: Name = C:\Users\Owner\Downloads\OmPatelLayoutsApp.java LineNo = 5 ColNo = 14 Msg = 'The serializable class OmPatelLayoutsApp does not declare a static final serialVersionUID field of type long'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b88879
+28 Mar 2019 21:54:43 GMT:  Kind = ERROR
+28 Mar 2019 21:54:43 GMT: Name = C:\Users\Owner\Downloads\OmPatelLayoutsApp.java LineNo = 75 ColNo = 5 Msg = 'GroupLayoutOmPatel cannot be resolved to a type'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@615fe
+28 Mar 2019 21:54:43 GMT:  Kind = ERROR
+28 Mar 2019 21:54:43 GMT: Name = C:\Users\Owner\Downloads\OmPatelLayoutsApp.java LineNo = 75 ColNo = 42 Msg = 'GroupLayoutOmPatel cannot be resolved to a type'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17907bc
+28 Mar 2019 21:54:43 GMT:  Kind = WARNING
+28 Mar 2019 21:54:43 GMT: Name = C:\Users\Owner\Downloads\OmPatelLayoutsApp.java LineNo = 70 ColNo = 23 Msg = 'The value of the local variable flowLayout is not used'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74c0df
+28 Mar 2019 21:54:43 GMT:  Kind = WARNING
+28 Mar 2019 21:54:43 GMT: Name = C:\Users\Owner\Downloads\FlowLayoutOmPatel.java LineNo = 6 ColNo = 14 Msg = 'The serializable class FlowLayoutOmPatel does not declare a static final serialVersionUID field of type long'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@276fa8
+28 Mar 2019 21:54:43 GMT:  Kind = ERROR
+28 Mar 2019 21:54:43 GMT: Name = C:\Users\Owner\Downloads\FlowLayoutOmPatel.java LineNo = 142 ColNo = 11 Msg = 'Cannot refer to the non-final local variable alignDialog defined in an enclosing scope'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2222f7
+28 Mar 2019 21:54:43 GMT:  Kind = ERROR
+28 Mar 2019 21:54:43 GMT: Name = C:\Users\Owner\Downloads\FlowLayoutOmPatel.java LineNo = 153 ColNo = 11 Msg = 'Cannot refer to the non-final local variable alignDialog defined in an enclosing scope'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ed9568
+28 Mar 2019 21:54:43 GMT:  Kind = ERROR
+28 Mar 2019 21:54:43 GMT: Name = C:\Users\Owner\Downloads\FlowLayoutOmPatel.java LineNo = 188 ColNo = 11 Msg = 'Cannot refer to the non-final local variable hDialog defined in an enclosing scope'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19bda32
+28 Mar 2019 21:54:43 GMT:  Kind = ERROR
+28 Mar 2019 21:54:43 GMT: Name = C:\Users\Owner\Downloads\FlowLayoutOmPatel.java LineNo = 199 ColNo = 11 Msg = 'Cannot refer to the non-final local variable hDialog defined in an enclosing scope'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f0aa86
+28 Mar 2019 21:54:43 GMT:  Kind = ERROR
+28 Mar 2019 21:54:43 GMT: Name = C:\Users\Owner\Downloads\FlowLayoutOmPatel.java LineNo = 234 ColNo = 11 Msg = 'Cannot refer to the non-final local variable vDialog defined in an enclosing scope'
+28 Mar 2019 21:54:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17206f5
+28 Mar 2019 21:54:43 GMT:  Kind = ERROR
+28 Mar 2019 21:54:43 GMT: Name = C:\Users\Owner\Downloads\FlowLayoutOmPatel.java LineNo = 245 ColNo = 11 Msg = 'Cannot refer to the non-final local variable vDialog defined in an enclosing scope'
+29 Mar 2019 23:47:32 GMT: Log 'EclipseCompiler.txt' opened: 29 Mar 2019 23:47:32 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\EclipseCompiler.txt
+29 Mar 2019 23:47:43 GMT: diagnostics = javax.tools.DiagnosticCollector@1dd5300
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6a02f0
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\FlowLayoutExample.java]
+29 Mar 2019 23:47:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1143fc6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+29 Mar 2019 23:47:43 GMT: Compiler call returned
+29 Mar 2019 23:47:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9a5b9a
+29 Mar 2019 23:47:43 GMT:  Kind = WARNING
+29 Mar 2019 23:47:43 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\FlowLayoutExample.java LineNo = 11 ColNo = 14 Msg = 'The serializable class FlowLayoutExample does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 23:47:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12eba96
+29 Mar 2019 23:47:43 GMT:  Kind = WARNING
+29 Mar 2019 23:47:43 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\FlowLayoutExample.java LineNo = 117 ColNo = 4 Msg = 'The method show() from the type java.awt.Dialog is deprecated'
+29 Mar 2019 23:47:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fe7262
+29 Mar 2019 23:47:43 GMT:  Kind = WARNING
+29 Mar 2019 23:47:43 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\FlowLayoutExample.java LineNo = 138 ColNo = 4 Msg = 'The method show() from the type java.awt.Dialog is deprecated'
+29 Mar 2019 23:47:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14210d6
+29 Mar 2019 23:47:43 GMT:  Kind = WARNING
+29 Mar 2019 23:47:43 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\ZachWeinstein CardLayout\FlowLayoutExample.java LineNo = 159 ColNo = 4 Msg = 'The method show() from the type java.awt.Dialog is deprecated'

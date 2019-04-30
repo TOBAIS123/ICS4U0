@@ -1,0 +1,19 @@
+fibonacci(6)--->
+
+fibonacci(5) + fibonacci(4)
+fibonacci(4) + fibonacci(3) + fibonacci(4)
+fibonacci(3) + fibonacci(2) + fibonacci(3) + fibonacci(4)
+fibonacci(2) + fibonacci(1) + fibonacci(2) + fibonacci(3) + fibonacci(4)
+1 + fibonacci(1) + fibonacci(2) + fibonacci(3) + fibonacci(4)
+1 + 1 + fibonacci(2) + fibonacci(3) + fibonacci(4)
+2 + 1 + fibonacci(3) + fibonacci(4)
+3 + fibonacci(2) + fibonacci(1) + fibonacci(4)
+3 + 1 + fibonacci(1) + fibonacci(4)
+3 + 1 + 1 + fibonacci(4)
+3 + 1 + 1 + fibonacci(3) + fibonacci(2)
+3 + 1 + 1 + fibonacci(2) + fibonacci(1) + fibonacci(2)
+3 + 1 + 1 + 1 + fibonacci(1) + fibonacci(2)
+3 + 2 + 1 + 1 + fibonacci(2)
+5 + 2 + 1
+5 + 3
+returns ---> long 8

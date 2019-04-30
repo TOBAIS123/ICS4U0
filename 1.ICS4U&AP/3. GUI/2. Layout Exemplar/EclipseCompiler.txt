@@ -1,0 +1,81 @@
+27 Mar 2019 2:21:45 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:21:45 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\EclipseCompiler.txt
+27 Mar 2019 2:21:59 GMT: diagnostics = javax.tools.DiagnosticCollector@15fe6dc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@672a35
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\BorderLayoutTest.java]
+27 Mar 2019 2:21:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c29bec' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+27 Mar 2019 2:22:00 GMT: Compiler call returned
+27 Mar 2019 2:22:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d2bbf8
+27 Mar 2019 2:22:00 GMT:  Kind = WARNING
+27 Mar 2019 2:22:00 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\BorderLayoutTest.java LineNo = 26 ColNo = 14 Msg = 'The serializable class BorderLayoutTest does not declare a static final serialVersionUID field of type long'
+27 Mar 2019 2:22:17 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:22:17 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\EclipseCompiler.txt
+27 Mar 2019 2:22:25 GMT: diagnostics = javax.tools.DiagnosticCollector@e5f08e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@186afec
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\RunGridBag2.java]
+27 Mar 2019 2:22:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7d9226' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+27 Mar 2019 2:22:26 GMT: Compiler call returned
+27 Mar 2019 2:22:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6bada7
+27 Mar 2019 2:22:26 GMT:  Kind = ERROR
+27 Mar 2019 2:22:26 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\RunGridBag2.java LineNo = 3 ColNo = 8 Msg = 'The import hsa cannot be resolved'
+27 Mar 2019 2:22:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1581987
+27 Mar 2019 2:22:26 GMT:  Kind = WARNING
+27 Mar 2019 2:22:26 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\GridBag2.java LineNo = 25 ColNo = 14 Msg = 'The serializable class GridBag2 does not declare a static final serialVersionUID field of type long'
+27 Mar 2019 2:22:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@499cde
+27 Mar 2019 2:22:26 GMT:  Kind = WARNING
+27 Mar 2019 2:22:26 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\GridBag2.java LineNo = 117 ColNo = 4 Msg = 'The method show() from the type java.awt.Dialog is deprecated'
+27 Mar 2019 2:22:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12da5be
+27 Mar 2019 2:22:26 GMT:  Kind = WARNING
+27 Mar 2019 2:22:26 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\GridBag2.java LineNo = 125 ColNo = 12 Msg = 'The value of the local variable info is not used'
+27 Mar 2019 2:22:39 GMT: diagnostics = javax.tools.DiagnosticCollector@7edf66
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e5f33
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\GridBag2.java, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\RunGridBag2.java]
+27 Mar 2019 2:22:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b578df' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+27 Mar 2019 2:22:39 GMT: Compiler call returned
+27 Mar 2019 2:22:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9d50b0
+27 Mar 2019 2:22:39 GMT:  Kind = WARNING
+27 Mar 2019 2:22:39 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\GridBag2.java LineNo = 25 ColNo = 14 Msg = 'The serializable class GridBag2 does not declare a static final serialVersionUID field of type long'
+27 Mar 2019 2:22:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dd62c
+27 Mar 2019 2:22:39 GMT:  Kind = WARNING
+27 Mar 2019 2:22:39 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\GridBag2.java LineNo = 117 ColNo = 4 Msg = 'The method show() from the type java.awt.Dialog is deprecated'
+27 Mar 2019 2:22:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14b89f1
+27 Mar 2019 2:22:39 GMT:  Kind = WARNING
+27 Mar 2019 2:22:39 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\GridBag2.java LineNo = 125 ColNo = 12 Msg = 'The value of the local variable info is not used'
+27 Mar 2019 2:22:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@80a294
+27 Mar 2019 2:22:39 GMT:  Kind = WARNING
+27 Mar 2019 2:22:39 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\RunGridBag2.java LineNo = 2 ColNo = 8 Msg = 'The import java.awt is never used'
+27 Mar 2019 2:23:44 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:23:44 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\EclipseCompiler.txt
+27 Mar 2019 2:23:59 GMT: diagnostics = javax.tools.DiagnosticCollector@1f294db
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ae510b
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\RunGridBag1.java]
+27 Mar 2019 2:23:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7d9071' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+27 Mar 2019 2:24:01 GMT: Compiler call returned
+27 Mar 2019 2:24:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a4a18f
+27 Mar 2019 2:24:01 GMT:  Kind = WARNING
+27 Mar 2019 2:24:01 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\RunGridBag1.java LineNo = 2 ColNo = 8 Msg = 'The import java.awt is never used'
+27 Mar 2019 2:24:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f631c8
+27 Mar 2019 2:24:01 GMT:  Kind = WARNING
+27 Mar 2019 2:24:01 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\GridBag1.java LineNo = 25 ColNo = 14 Msg = 'The serializable class GridBag1 does not declare a static final serialVersionUID field of type long'
+27 Mar 2019 2:24:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dd5300
+27 Mar 2019 2:24:01 GMT:  Kind = WARNING
+27 Mar 2019 2:24:01 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\GridBag1.java LineNo = 121 ColNo = 4 Msg = 'The method show() from the type java.awt.Dialog is deprecated'
+27 Mar 2019 2:24:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6a02f0
+27 Mar 2019 2:24:01 GMT:  Kind = WARNING
+27 Mar 2019 2:24:01 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\GridBag1.java LineNo = 129 ColNo = 12 Msg = 'The value of the local variable info is not used'
+27 Mar 2019 2:24:47 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:24:47 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\EclipseCompiler.txt
+27 Mar 2019 2:24:57 GMT: diagnostics = javax.tools.DiagnosticCollector@f09b13
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3afaf3
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\BorderLayoutTest2.java]
+27 Mar 2019 2:24:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2233d4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+27 Mar 2019 2:24:57 GMT: Compiler call returned
+27 Mar 2019 2:24:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10871ec
+27 Mar 2019 2:24:57 GMT:  Kind = WARNING
+27 Mar 2019 2:24:57 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\BorderLayoutTest2.java LineNo = 26 ColNo = 14 Msg = 'The serializable class BorderLayoutTest2 does not declare a static final serialVersionUID field of type long'
+27 Mar 2019 2:25:22 GMT: Log 'EclipseCompiler.txt' opened: 27 Mar 2019 2:25:22 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\EclipseCompiler.txt
+27 Mar 2019 2:25:30 GMT: diagnostics = javax.tools.DiagnosticCollector@13fd1ed
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13b86f9
+fileObjects = [I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\BorderLayoutTest.java]
+27 Mar 2019 2:25:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@aa4c59' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar;C:\Users\Owner\Desktop\java\drjava-beta-20160913-225446.exe]
+27 Mar 2019 2:25:30 GMT: Compiler call returned
+27 Mar 2019 2:25:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15fe1ea
+27 Mar 2019 2:25:30 GMT:  Kind = WARNING
+27 Mar 2019 2:25:30 GMT: Name = I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\BorderLayoutTest.java LineNo = 26 ColNo = 14 Msg = 'The serializable class BorderLayoutTest does not declare a static final serialVersionUID field of type long'
+28 Mar 2019 1:33:39 GMT: Log 'EclipseCompiler.txt' opened: 28 Mar 2019 1:33:39 GMT with name I:\ICS4U0\1.ICS4U&AP\3. GUI\2. Layout Exemplar\EclipseCompiler.txt

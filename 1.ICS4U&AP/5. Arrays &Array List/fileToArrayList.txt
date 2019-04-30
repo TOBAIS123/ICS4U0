@@ -1,0 +1,69 @@
+Scanner s = new Scanner(new File("filepath"));
+ArrayList<String> list = new ArrayList<String>();
+while (s.hasNext()){
+    list.add(s.next());
+}
+s.close();
+
+Use s.hasNextLine() and s.nextLine() if you want to read in line by line instead of word by word.
+
+new Scanner(new File("filepath")).useDelimiter(System.lineSeparator())
+
+
+or
+
+
+List<String> words = new ArrayList<String>();
+BufferedReader reader = new BufferedReader(new FileReader("words.txt"));
+String line;
+while ((line = reader.readLine()) != null) {
+    words.add(line);
+}
+reader.close();
+
++++++++++
+
+AD001|admin|admin|admin|admin@gmail.com|0123456789|931245678976
+AD002|jeff|jeff|jefferyadmin|adminadmin@gmail.com|12345678790|941457431246
+
+
+List<Admin> adminList = new ArrayList<Admin>();
+
+This is the arrayList that I decalred.
+
+BufferedReader br = new BufferedReader(new FileReader("Admin.txt"));
+String strLine;
+while((strLine = br.readLine()) != null)
+{
+     String[] values = strLine.split("|");
+     adminList.add(new Admin());
+}
+
+++++++++++
+array to array list
+
+Element[] array = {new Element(1), new Element(2), new Element(3)};
+new ArrayList<Element>(Arrays.asList(array))
++++++++++++++++++++
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
+
+public class Utils {
+
+  public static List<String> readLines(File file) throws Exception {
+      if (!file.exists()) {
+          return new ArrayList<String>();
+      }
+      BufferedReader reader = new BufferedReader(new FileReader(file));
+      List<String> results = new ArrayList<String>();
+      String line = reader.readLine();
+      while (line != null) {
+          results.add(line);
+          line = reader.readLine();
+      }
+      return results;
+  }
+}
