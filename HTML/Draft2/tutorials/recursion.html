@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Erfan's Portfolio</title>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+    <!--Custom and framework Style Sheets-->
+    <link rel="stylesheet" type="text/css" href="css/lessons.css">
+    <link rel="stylesheet" type="text/css" href="../css/navbar.css">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <!--Google Fonts CND-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <!--animate css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?lang=java&amp;skin=sunburst"></script>
+</head>
+<style>
+    .header {
+        background-image: url("../images/fractal.jpg");
+        height: 40%;
+        opacity: 0.9;
+        background-color: black;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        top: 0;
+        left: 0;
+        z-index: 0;
+    }
+</style>
+
+<body class="railway-font bgc">
+<div class="header">
+    <div id="jumbo">
+        <h1 class=" display-3 animated fadeInUp display-5">Recursion</h1>
+    </div>
+</div>
+
+<nav id="nav" class="navbar fixed-top navbar-expand-sm bgdark navbar-dark scrolling-navbar ">
+    <a class="navbar-brand railway-font" href="../index.html"> Erfan Yeganehfar</a>
+    <div class="navbar-collapse collapse">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="../tutorials/oop1.html">Intro To OOP 1</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../tutorials/arrays.html">Arrays & ArraysLists</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="../tutorials/recursion.html">Recursion</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../tutorials/searching-sorting.html">Searching & Sorting</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../tutorials/oop2.html">Intro To OOP 2</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../tutorials/programming-style.html">Program Design</a>
+            </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <span class="menubtn" onclick="openNav()">&#9776;</span>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div id="myNav" class="overlay-nav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <div class="relative-center">
+        <a href="../tutorial-page.html" id="highlight">Tutorial</a>
+        <a href="../index.html">Home</a>
+        <a href="../about-me.html">About Me</a>
+        <a href="../project.html">Projects</a>
+    </div>
+</div>
+
+<div class="contents m-font">
+    <div>
+        <h1>Criteria for Recursion</h1>
+        <hr/>
+        <p>Recursion is a concept in Java that is applied to methods. A <strong>recursive </strong>method is a method
+            that calls upon itself. For this to happen, some criteria must first be met.</p>
+        <ul>
+            <li>It should be possible to reduce the size of the problem, repetitively. until a <strong>base
+                case</strong> is met, where the last recursive call, returns a value and the subsequent call is
+                processed.
+            </li>
+            <li>The endpoints of the solution (base case) should at one time be met (so that
+                <code><strong>StackOverFlow</strong></code> does not occur), therefore the base case should be
+                identified and
+                organized to fit the problem.
+            </li>
+            <li>There must also be a way of getting a larger result from each of the divided component elements. Think
+                of it as accumulating all the return statements into one definitive answer.
+            </li>
+
+        </ul>
+        <p>One example of a simple but effective recursive method, is the efficient Euclidean GCD. It is based off of
+            the idea that the GCD of two numbers does not change if a smaller number is subtracted from a bigger
+            number.</p>
+        <pre>
+            <code class="prettyprint" style="background-color: transparent">
+            // Recursive method used to to return the gcd of a and b
+            static int gcd(int a, int b)
+            {
+                if (b == 0)
+                    return a;
+                return gcd(b, a % b);
+            }
+            </code>
+        </pre>
+        <p>Another example is finding the factorial of a number. This method is much easier to create and can be traced
+            easily as well. The premise is that a number is passed into the method, wherein it is recursively called
+            until the base case is met and the base case is multiplied by the last recursive call. This happens
+            continuously until integer n is reached.</p>
+        <pre>
+            <code class="prettyprint" style="background-color: transparent">
+            public int factorial(int n){
+                  if (n == 1)
+                    return 1;
+                  else
+                    return(n * factorial(n-1));
+            }
+            </code>
+        </pre>
+        <h1>Recursion in Real Life</h1>
+        <hr/>
+        <p>Recursion isn&#39;t just a computer concept, it can be observed in the real world as well. One set of
+            everyday examples of recursion is fractals. Fractals are patterns that are for the most part, never ending,
+            they are created by repeating an initial pattern in a feedback loop. They are driven by recursion as each
+            instance of the pattern is a smaller/or larger version of the last subsequent one. In nature, this pattern
+            isn&#39;t always never ending, but it exhibits the same properties. Some of the best examples would be:
+            Onions, Romanesco broccoli, cabbage, trees, frost crystals, and a lot more.</p>
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <img src="../images/broc.png" class="rounded" alt="Romanesco broccoli">
+            </div>
+        </div>
+        <p class="text-center">An image of some Romanesco broccoli</p>
+        <h1>Iterative solutions</h1>
+        <hr/>
+        <p>An iterative solution is a method of solving a problem that includes the repetitions or iterations of a set
+            of instructions a set amount of times until a certain condition is met. When the first set of instructions
+            is re-executed, it is called an iteration. </p>
+        <p>Here is an iterative solution to the factorial method, notice that it uses a loop to achieve iterations:</p>
+        <pre>
+            <code class="prettyprint" style="background-color: transparent">
+            public static int factorial(int n){
+                int fact = 1;//similar to the base case
+                int i = 1;//needed for an iterative solution to keep count
+                while(i <= n){
+                    fact = fact * i;//accumulates the factorials
+                    i++;
+                }
+                return result;
+            }
+            </code>
+        </pre>
+        <p>Tracing recursive methods in java allows us to understand what values are returned when a recursive program
+            runs. For the factorial method above, stack tracing <code class="prettyprint"
+                                                                      style="background-color: transparent">factorial(5)</code>
+            returns the answer int 120</p>
+        <pre style="color: #c9c9c9;">
+        factorial(5) returns 5 * factorial(4)
+            factorial(4) returns 4 * factorial(3)
+                factorial(3) returns 3 * factorial(2)
+                    factorial(2) returns 2 * factorial(1)
+                        factorial(1) returns 1 * factorial(0)
+                            factorial(0) returns 1
+                        factorial(1) returns  1 * 1 = 1
+                    factorial(2) returns 2 * 1 = 2
+                factorial(3) returns 3 * 2 = 6
+            factorial(4) returns 4 * 6 = 24
+        factorial(5) returns 5 * 24 = 120
+        </pre>
+        <h4>Iterative over Recursive</h4>
+        <p>Sometimes recursive solutions are more favored than iterative ones sometimes because recursion solutions are
+            usually simpler, shorter and easier to understand than other forms of solving a problem. They also reflects
+            the abstract solution strategy (meaning its quality is on pare to standards set by the IEEE), as many
+            algorithms are also defined recursively it&#39;s easy to implement them.</p>
+        <p>Yet most of the time iterative solutions are used as recursion algorithms are for the most part slower than
+            their iterative counterparts because of the overhead of method calls. Recursion methods also have higher
+            space complexities as they keep stacking up in memory. </p>
+        <h1>Types of Recursive methods</h1>
+        <hr/>
+        <p>Recursive methods call upon themselves until a base case is met, they pile up in memory. <strong>Mutual
+            Recursion</strong> is when 2 methods (can be multiple) call each other back and forth with at least one
+            method decomposing the call so a base case can be met. In <strong>Tail Recursion</strong> a method calls
+            itself using a subroutine as the final statement in the procedure, (each time the call is decomposed until a
+            base case is met). There are most definitely more types of recursions, yet their specific traits are not as
+            important as Trail and Mutual recursion.</p>
+        <h4>Mutual example</h4>
+        <p>The previous examples have all been tail recursion, in this example an integer is determined to be odd or
+            even. 0 is even (therefore when the base case 0 is met, the integer is even). If a
+            number N is even, then N - 1 must be odd. So then that means that when N - 1 reaches 1 at isEven then N is
+            determined to be odd since N = 0 when it reaches isOdd. The opposite can be said for isEven.</p>
+        <pre>
+            <code class="prettyprint" style="background-color: transparent">
+            //Determines whether an int is even through mutual recursion w/ isOdd
+            boolean isEven(int number )
+            {
+                if(number == 0 )
+                    return true;
+                else
+                    return isOdd(abs(number)-1)
+            }
+
+            boolean isOdd(int number )
+            {
+                if(number == 0 )
+                    return false;
+                else
+                    return isEven(abs(number)-1);
+            }
+            </code>
+        </pre>
+    </div>
+</div>
+
+<!--Bootstrap imports-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<!--navbar js-->
+<script src="../js_app/navOptions.js"></script>
+</body>
+</html>

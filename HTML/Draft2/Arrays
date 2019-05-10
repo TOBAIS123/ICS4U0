@@ -1,0 +1,106 @@
+# Arrays
+
+------
+
+An array is a **data structure** which implements a List object. An array holds a fixed amount of values of the same data type. An array has a fixed length upon initialization represented by <code class="prettyprint"> <array_name>.length </code>. Each item in an array is called an **element** which is identified and accessed through an integer known as an **index**. For an array of N elements, the array index starts at 0 and ends at N-1. An element  can be accessed through the name of the array and its index. For example if an array is called arr, then to access the 3rd element, all you need to do is <code class="prettyprint"> arr[2] </code>. If the index being accessed is 0 < index or index > N, then an <code class="prettyprint">ArrayIndexOutOfBounds</code> is thrown.
+
+#### Initialization
+
+Since Arrays are objects, they need to be initialized by the keyword **new**. When an array is initialized its length is fixed, meaning that it cannot gain or lose how much it can contain elements. Since it is an object it is still possible to reassign the array to a new array with a different size. Arrays should be declared using the following format: <code class="prettyprint"> type[]<arr_name>;</code>
+        <pre>
+            <code class="prettyprint" style="background-color: transparent"> 
+//declares an array fo strings
+String[] strArr;
+//initializes the array of strings to a length of 10, allocates memory for the array
+strArr = new String[10];
+</code>
+</pre>
+When An array is first declared, no array actually exists within the memory. It simply tells the compiler that the reference variable will hold an array of a specified data type.
+
+Now to assign values to the array, for this we must access an element through an index and change its value. When an array is first initialized, its default values are based on the data type. Strings = null, ints = 0, doubles = 0.0, etc..
+
+        <pre>
+            <code class="prettyprint" style="background-color: transparent"> 
+//Accessing an array through its index and changing its value
+String[] strArr = new String[10]
+strArr[0] = "hello";
+strArr[1] = "bye";
+strArr[2] = "hello again";
+</code>
+</pre>
+An array can also be initialized by using a syntax shortcut such as:
+        <pre>
+            <code class="prettyprint" style="background-color: transparent"> 
+//initializes an Array of integers with element values and sets the length to 5
+int[] intArr = {100, 10, 20, 30, 50};
+</code>
+</pre>
+
+Each element is still able to be accessed through its index
+        <pre>
+            <code class="prettyprint" style="background-color: transparent"> 
+int[] intArr = {100, 10, 20, 30, 50};
+//The element at any index can be accessed through its index, 
+//in this case element 100 is being printed
+System.out.println("Element at index 0" + intArr[0])
+</code>
+</pre>
+
+#### Traversing An Array
+
+It is a tedious method to change/comb through every element within an array. If the array was to be manipulated, a for loop or a for each loop can be used to **traverse** the array. Within a for loop each index is explicitly called, and can therefore allow a more in-depth manipulation of the data than a for each loop where an explicit index cannot be located.
+
+<pre>
+<code class="prettyprint" style="background-color: transparent"> 
+// accessing the elements of an array using its indecies in a for loop
+for (int i = 0; i < arr.length; i++)
+  System.out.println("Element at index " + i + " "+ arr[i]);
+// accessing the elements of an array using a for each loop
+for (int i : arr) { 
+	// accessing each element of the array 
+	System.out.print(i); 
+}
+</code>
+</pre>
+
+# ArrayLists
+
+------
+
+Array Lists are a similar data structure to arrays, yet they are different in a few ways.
+
+* An Array List is able to be resized (shrink and grow) based on the program, while arrays are fixed in length when they are instantiated.
+* In Array Lists the last element is represented by the index <code class="prettyprint"> <list_name>.size()-1 </code>. While in an array that is not full (not all of the elements were given a value) the last given index is not recorded.
+* Array Lists allow the addition and removing of elements into the array with object methods, where the indices are "automatically shifted for the changes. In an array, a new array with a new sized must be created an all the elements must be transferred into the new array for the array to have added or removed elements.
+* Array lists have a <code class="prettyprint">  toString(); </code> method unlike arrays where a printArray() method could be used.
+* Array lists are part of the Collections API. The ArrayList class extends AbstractList class which implements List interface. The List interface extends Collection and Iterable interfaces in hierarchical order.
+* Through Auto-Boxing, the data types that an Array List allows are Objects, so primitive data types are auto-boxed into their respective wrapper classes allowing the manipulation of the data type as an Object. Although this does lead to a decrease in efficiency on runtime. Make sure that a null reference is not auto-boxed as it will produce a <code class="prettyprint">NullPointerException </code>
+
+#### How to Create an Array List
+
+This statement creates an ArrayList with the name `list` with a data type. The type determines which type of elements the list will have. For example, if an Array List is a “String” type, the elements that are going to be added to this list will be of type String.
+
+<code class="prettyprint"> ArrayList&lt;data_type> list =new ArrayList&lt;data_type>(); </code>
+
+#### Using ArrayList Methods
+
+The List &lt;E> interface provides the Array List with many methods. Some allow the Array List to add elements such as the add() method, with a couple of variations. For example, if an element was to be added at the end of the List then add it like this:
+
+<pre>
+<code class="prettyprint" style="background-color: transparent"> 
+ArrayList <String> list =new ArrayList <String>();
+list.add("Justin B");
+</code>
+</pre>
+
+To add an element at a specific location and shift the Array List, then do this <code class="prettyprint"> list.add (4,"Justin B"); </code>, which adds Justin B at the 4th index and adjusts the list. Removing works the same way just with different parameters. 
+
+<pre>
+<code class="prettyprint" style="background-color: transparent"> 
+list.remove(Object o)// Removes the object o from the ArrayList.
+list.remove(int index)// Removes an element from the given index.
+list.set(int index, Object o)//Modifies an element at an index. It replaces the element at the index with the object.
+list.get(int index)// Returns the object at the index
+</code>
+</pre>
+

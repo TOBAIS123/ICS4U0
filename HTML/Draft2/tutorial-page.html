@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Erfan's Portfolio</title>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+    <!--Custom and framework Style Sheets-->
+    <link rel="stylesheet" type="text/css" href="css/tutorial.css">
+    <link rel="stylesheet" type="text/css" href="css/navbar.css">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <!--Google Fonts CND-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <!--animate css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+</head>
+
+<body class="railway-font bgc">
+<div class="header">
+    <div id="jumbo">
+        <h1 class=" display-3 animated fadeInUp display-5">Tutorials</h1>
+    </div>
+</div>
+
+<nav id="nav" class="navbar fixed-top navbar-expand-sm bgdark navbar-dark scrolling-navbar ">
+    <a class="navbar-brand railway-font" href="index.html"> Erfan Yeganehfar</a>
+    <div class="navbar-collapse collapse">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="tutorials/oop1.html">Intro To OOP 1</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="tutorials/arrays.html">Arrays & ArraysLists</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="tutorials/recursion.html">Recursion</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="tutorials/searching-sorting.html">Searching & Sorting</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="tutorials/oop2.html">Intro To OOP 2</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="tutorials/programming-style.html">Program Design</a>
+            </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <span class="menubtn" onclick="openNav()">&#9776;</span>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div id="myNav" class="overlay-nav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <div class="relative-center">
+        <a href="#nav" id="highlight">Tutorial</a>
+        <a href="index.html">Home</a>
+        <a href="about-me.html">About Me</a>
+        <a href="project.html">Projects</a>
+    </div>
+</div>
+
+<div class="pt-5 mt-5">
+    <h1 class="display-5 text-center text-white">LESSONS</h1>
+</div>
+
+<div class="container mt-5">
+    <div class="container pt-5 railway-font">
+        <div class="card-deck col-sm-12  text-white">
+            <div class="card border-dark bg-dark bg-darker">
+                <div class=" card-header text-center">
+                    <h4>Intro To OOP 1</h4>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">A General introduction to Object Orientated Programing.
+                        <br> This tutorial will focus on Classes & Objects, Inheritance,
+                        Encapsulation, and Abstraction</p>
+                    <a href="tutorials/oop1.html" class="btn btn-secondary custom-btn">Tutorial</a>
+                </div>
+            </div>
+            <div class="card border-dark bg-dark">
+                <div class="card-header text-center">
+                    <h4>Arrays & ArraysLists</h4>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">A tutorial about how to declare and initialize Arrays & ArrayLists,
+                        traversing them, and why to use them <br><br><br></p>
+                    <a href="tutorials/arrays.html" class="btn btn-secondary custom-btn">Tutorial</a>
+                </div>
+            </div>
+            <div class="card border-dark bg-dark">
+                <div class="card-header text-center">
+                    <h4>Recursion</h4>
+                </div>
+                <div class="card-body">
+                    <p class="card-text"> A tutorial about recursion criteria, tracing, different types of recursion,
+                        and recursion in real life </p>
+                    <a href="tutorials/recursion.html" class="btn btn-secondary custom-btn">Tutorial</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5 railway-font">
+        <div class="card-deck col-sm-12 w-80 text-white">
+            <div class="card border-dark bg-dark">
+                <div class="card-header text-center">
+                    <h4>Searching & Sorting</h4>
+                </div>
+                <div class="card-body">
+                    <p class="card-text"> A lesson on the 2 common types of searches, 2 very different types of sorting
+                        algorithms, and a short overview of time complexity</p>
+                    <a href="tutorials/searching-sorting.html" class="btn btn-secondary custom-btn">Tutorial</a>
+                </div>
+            </div>
+            <div class="card border-dark bg-dark">
+                <div class="card-header text-center">
+                    <h4>Intro To OOP 2</h4>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">A General implementation of Polymorphism in Java with examples of Overriding
+                        and Overloading.</p>
+                    <a href="tutorials/oop2.html" class="btn btn-secondary custom-btn">Tutorial</a>
+                </div>
+            </div>
+            <div class="card border-dark bg-dark">
+                <div class="card-header text-center">
+                    <h4>Program Design</h4>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Some insight into how to solve problems</p>
+                    <a href="tutorials/programming-style.html" class="btn btn-secondary custom-btn">Tutorial</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="contents">
+    <div class = "container">
+        <ul class="list-unstyled">
+            <li>
+                <a href="https://github.com/TOBAIS123/ICS4U0" class="text-light"><img src="images/github.png" alt="git" class="mr-3"/></a>
+                <a href="https://github.com/TOBAIS123/ICS4U0"><h2 class="text-light">Github</h2></a>
+                <a href="https://github.com/TOBAIS123/ICS4U0" class="text-light">https://github.com/TOBAIS123/ICS4U0</a>
+                <p>My github stores all the projects I have up to date (except ICS2O3) including example problems and programs</p>
+            </li>
+            <li>
+                <a href="https://github.com/TOBAIS123/ICS4U0" class="text-light"><img src="images/wlmoj.png" alt="wlomj" class="mr-3 bg-light"/></a>
+                <a href= "https://judge.mcpt.ca/user/inglume">
+                    <h2 class="text-light">WLMOJ</h2></a>
+                <a href="https://judge.mcpt.ca/user/inglume" class = "text-light">https://judge.mcpt.ca/user/inglume</a>
+                <p>My schools online judge, where I have attempted some programming problems</p>
+            </li>
+        </ul>
+    </div>
+</div>
+<!--Bootstrap imports-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<!--navbar js-->
+<script src="js_app/navOptions.js"></script>
+</body>
+</html>

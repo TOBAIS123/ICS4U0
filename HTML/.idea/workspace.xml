@@ -14,52 +14,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/index.html">
+        <entry file="file://$PROJECT_DIR$/Draft2/tutorials/oop1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
-              <folding>
-                <element signature="e#1680#1687#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="312">
+              <caret line="13" column="66" lean-forward="true" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/css/stylesheet.css">
+        <entry file="file://$PROJECT_DIR$/Draft2/tutorials/css/lessons.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="104" selection-end-column="1" />
+            <state relative-caret-position="462">
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Draft2/css/tutorial.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/css/about-me.css">
+        <entry file="file://$PROJECT_DIR$/Draft2/tutorials/oop2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="26" column="15" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/AboutMe.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="72" lean-forward="true" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
-              <folding>
-                <element signature="e#1585#1592#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/js_app/navOptions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="189">
+              <caret line="90" column="130" selection-start-line="90" selection-start-column="130" selection-end-line="90" selection-end-column="130" />
             </state>
           </provider>
         </entry>
@@ -74,34 +59,64 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bg</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/styleE.css" />
-        <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/index.html" />
         <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/stylesheet.css" />
         <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/StyleSheets/navbar-style.css" />
         <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/js.js" />
         <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/StyleSheets/stylesheet.css" />
-        <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/index.html" />
-        <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/css/stylesheet.css" />
         <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/AboutMe.html" />
+        <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/tutorial-page.html" />
+        <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/js_app/navOptions.js" />
         <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/css/about-me.css" />
+        <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/css/stylesheet.css" />
+        <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/styleE.css" />
+        <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/index.html" />
+        <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/index.html" />
+        <option value="$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/css/index-css.css" />
+        <option value="$PROJECT_DIR$/Draft2/css/tutorial-css.css" />
+        <option value="$PROJECT_DIR$/Draft2/css/about.css" />
+        <option value="$PROJECT_DIR$/Draft2/css/tutorial-pages.css" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/css/recursion.css" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/css/oop2.css" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/css/searching-sorting.css" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/css/programming-design.css" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/css/array.css" />
+        <option value="$PROJECT_DIR$/Draft2/css/index.css" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/css/oop1.css" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/arrays.html" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/oop1.html" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/programming-style.html" />
+        <option value="$PROJECT_DIR$/Draft2/css/navbar.css" />
+        <option value="$PROJECT_DIR$/Draft2/index.html" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/css/lessons.css" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/recursion.html" />
+        <option value="$PROJECT_DIR$/Draft2/about-me.html" />
+        <option value="$PROJECT_DIR$/Draft2/css/main.css" />
+        <option value="$PROJECT_DIR$/Draft2/project.html" />
+        <option value="$PROJECT_DIR$/Draft2/css/tutorial.css" />
+        <option value="$PROJECT_DIR$/Draft2/tutorial-page.html" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/searching-sorting.html" />
+        <option value="$PROJECT_DIR$/Draft2/tutorials/oop2.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="107" />
-    <option name="y" value="194" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="854" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,42 +127,58 @@
             <path>
               <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="erfanYegPortfolioDraft1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="erfanYegPortfolioDraft1" type="462c0819:PsiDirectoryNode" />
               <item name="Draft2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="erfanYegPortfolioDraft1" type="462c0819:PsiDirectoryNode" />
               <item name="Draft2" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="Draft2" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="Draft2" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="erfanYegPortfolioDraft1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Draft2/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\ICS4U0\HTML\Draft2\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\ICS4U0\HTML\Draft2\tutorials" />
+      <recent name="I:\ICS4U0\HTML\Draft2\tutorials\css" />
+      <recent name="I:\ICS4U0\HTML\Draft2\css" />
+      <recent name="I:\ICS4U0\HTML\Draft2" />
       <recent name="I:\ICS4U0\HTML\erfanYegPortfolioDraft1\Draft2\js_app" />
-      <recent name="I:\ICS4U0\HTML\erfanYegPortfolioDraft1\Draft2\images" />
-      <recent name="I:\ICS4U0\HTML\erfanYegPortfolioDraft1\Draft2\StyleSheets" />
-      <recent name="I:\ICS4U0\HTML\erfanYegPortfolioDraft1\Draft2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -175,12 +206,24 @@
       <workItem from="1556391004529" duration="413000" />
       <workItem from="1556477461833" duration="15646000" />
       <workItem from="1556501281654" duration="7905000" />
-      <workItem from="1556571706930" duration="6837000" />
+      <workItem from="1556571706930" duration="10390000" />
+      <workItem from="1556668452447" duration="3887000" />
+      <workItem from="1556743366228" duration="2894000" />
+      <workItem from="1556832060945" duration="7391000" />
+      <workItem from="1556888445854" duration="992000" />
+      <workItem from="1556929253860" duration="6699000" />
+      <workItem from="1556992922018" duration="50000" />
+      <workItem from="1557007463387" duration="3670000" />
+      <workItem from="1557104496168" duration="612000" />
+      <workItem from="1557177415680" duration="28568000" />
+      <workItem from="1557348586096" duration="2080000" />
+      <workItem from="1557352184170" duration="13146000" />
+      <workItem from="1557431642631" duration="26282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30801000" />
+    <option name="totallyTimeSpent" value="130625000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,14 +235,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1066" extended-state="7" />
+    <frame x="-7" y="0" width="854" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20506634" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.58455884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296582" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -214,11 +257,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20506634" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28769603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296582" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -237,35 +280,8 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/images/comp.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/styleE.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/images/comp.jpg" />
     <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/StyleSheets/navbar-style.css" />
-    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/js_app/navOptions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/.idea/erfanYegPortfolioDraft1.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -273,37 +289,185 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/css/stylesheet.css">
+    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/styleE.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="104" selection-end-column="1" />
+        <state relative-caret-position="624">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/index.html">
+    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/css/about-me.css" />
+    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/about-me.html" />
+    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/tutorial-page.html" />
+    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/js_app/navOptions.js" />
+    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/index.html" />
+    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/css/index-css.css" />
+    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+        <state relative-caret-position="-176">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding>
-            <element signature="e#1680#1687#1" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/AboutMe.html">
+    <entry file="file://$PROJECT_DIR$/Draft2/css/about.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="72" lean-forward="true" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+        <state relative-caret-position="702">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/images/logo.jpg" />
+    <entry file="file://$PROJECT_DIR$/Draft2/images/bg2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/images/comp.jpg" />
+    <entry file="file://$PROJECT_DIR$/Draft2/images/comp1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/css/recursion.css" />
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/css/searching-sorting.css" />
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/css/programming-design.css" />
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/css/array.css" />
+    <entry file="file://$PROJECT_DIR$/Draft2/images/encap.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/images/inheritance1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/css/oop2.css" />
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/css/tutorial-pages.css" />
+    <entry file="file://$PROJECT_DIR$/Draft2/images/mi.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/images/MCu3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/css/navbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/arrays.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="82" column="12" selection-start-line="82" selection-end-line="83" />
           <folding>
-            <element signature="e#1585#1592#1" expanded="true" />
+            <element signature="n#style#0;n#code#0;n#pre#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#code#0;n#pre#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#code#0;n#pre#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#code#0;n#pre#3;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#code#0;n#pre#4;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#code#0;n#pre#5;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#code#0;n#pre#6;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/erfanYegPortfolioDraft1/Draft2/css/about-me.css">
+    <entry file="file://$PROJECT_DIR$/Draft2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="26" column="15" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="15" />
+        <state relative-caret-position="846">
+          <caret line="44" column="53" lean-forward="true" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/programming-style.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1752">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/recursion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="81" column="8" lean-forward="true" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#code#0;n#p#7;n#body#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#pre#3;n#body#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="106" selection-start-line="106" selection-end-line="123" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="48" selection-start-line="48" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/about-me.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-498">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/css/tutorial.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorial-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="121" column="51" selection-start-line="121" selection-start-column="51" selection-end-line="121" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/css/lessons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/oop1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="66" lean-forward="true" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/searching-sorting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <element signature="e#2886#2893#1" expanded="true" />
+            <element signature="n#style#0;n#code#0;n#pre#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#code#0;n#pre#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#code#0;n#pre#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draft2/tutorials/oop2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="90" column="130" selection-start-line="90" selection-start-column="130" selection-end-line="90" selection-end-column="130" />
         </state>
       </provider>
     </entry>

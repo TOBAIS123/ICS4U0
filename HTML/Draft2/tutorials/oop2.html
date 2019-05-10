@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Erfan's Portfolio</title>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+    <!--Custom and framework Style Sheets-->
+    <link rel="stylesheet" type="text/css" href="css/lessons.css">
+    <link rel="stylesheet" type="text/css" href="../css/navbar.css">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <!--Google Fonts CND-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <!--animate css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?lang=java&amp;skin=sunburst"></script>
+</head>
+
+<style>
+    .header {
+        background-image: url("../images/bruh.jpg");
+        height: 40%;
+        opacity: 0.9;
+        background-color: black;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        top: 0;
+        left: 0;
+        z-index: 0;
+    }
+</style>
+<body class="railway-font bgc">
+<div class="header">
+    <div id="jumbo">
+        <h1 class=" display-3 animated fadeInUp display-5">OOP 2</h1>
+    </div>
+</div>
+
+<nav id="nav" class="navbar fixed-top navbar-expand-sm bgdark navbar-dark scrolling-navbar ">
+    <a class="navbar-brand railway-font" href="../index.html"> Erfan Yeganehfar</a>
+    <div class="navbar-collapse collapse">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="../tutorials/oop1.html">Intro To OOP 1</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../tutorials/arrays.html">Arrays & ArraysLists</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="../tutorials/recursion.html">Recursion</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../tutorials/searching-sorting.html">Searching & Sorting</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../tutorials/oop2.html">Intro To OOP 2</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../tutorials/programming-style.html">Program Design</a>
+            </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <span class="menubtn" onclick="openNav()">&#9776;</span>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div id="myNav" class="overlay-nav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <div class="relative-center">
+        <a href="../tutorial-page.html" id="highlight">Tutorial</a>
+        <a href="../index.html">Home</a>
+        <a href="../about-me.html">About Me</a>
+        <a href="../project.html">Projects</a>
+    </div>
+</div>
+
+<div class="contents m-font">
+    <div>
+        <h1>Polymorphism</h1>
+        <hr/>
+        <p>Polymorphism is a Java OOP concept that lets programmers use the same Object to behave differently in
+            different contexts. There are different forms of
+            Polymorphism in Java, the main ones are <strong>method overloading</strong> and <strong> method
+                overriding</strong></p>
+        <h1>Method Overloading</h1>
+        <hr/>
+        <p>When a class has multiple methods with the same name, but different parameters, it is known as <strong>Method
+            Overloading</strong>. Method Overloading allows the readability of the program to increase as one</p>
+        <pre>
+            <code class="prettyprint" style="background-color: transparent">
+            // Recursive method used to to return the gcd of a and b
+            static int gcd(int a, int b)
+            {
+                if (b == 0)
+                    return a;
+                return gcd(b, a % b);
+            }
+            </code>
+        </pre>
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <img src="../images/broc.png" class="rounded" alt="Romanesco broccoli">
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--Bootstrap imports-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<!--navbar js-->
+<script src="../js_app/navOptions.js"></script>
+</body>
+</html>

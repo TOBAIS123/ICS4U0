@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Erfan's Portfolio</title>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+    <!--Custom and framework Style Sheets-->
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/lessons.css">
+    <link rel="stylesheet" type="text/css" href="css/navbar.css">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <!--Google Fonts CND-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <!--animate css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+</head>
+<style>
+    .header {
+        background-image: url("images/proj.jpg");
+        height: 40%;
+        opacity: 0.9;
+        background-color: black;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        top: 0;
+        left: 0;
+        z-index: 0;
+    }
+</style>
+
+<body class="railway-font bgc">
+<div class="header">
+    <div id="jumbo-header">
+        <h1 class=" display-3 animated fadeInUp display-5"> Projects</h1>
+    </div>
+</div>
+
+<nav id="nav" class="navbar fixed-top navbar-expand-sm bgdark navbar-dark scrolling-navbar ">
+    <a class="navbar-brand railway-font" href="../index.html"> Erfan Yeganehfar</a>
+    <div class="navbar-collapse collapse">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <span class="menubtn" onclick="openNav()">&#9776;</span>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div id="myNav" class="overlay-nav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <div class="relative-center">
+        <a href="#nav" id="highlight">Projects</a>
+        <a href="index.html">Home</a>
+        <a href="about-me.html">About Me</a>
+        <a href="tutorial-page.html">Tutorial</a>
+    </div>
+</div>
+
+<div class="contents m-font">
+    <h1>ICS2O3 ISP: Car Creator</h1>
+    <hr/>
+    <br>
+    <p> This was my final project for ICS2O3, I was tasked with making a game that allowed the player to make a car.
+        Using a lot of if statements and cursor locations, I was able to complete the game and receive full marks. If
+        you click on the images, it will link you to my github repository for the project. This program is in Turing</p>
+    <br>
+    <div class="row">
+        <div class="row-align mx-auto d-block">
+            <a href="https://github.com/TOBAIS123/ICS2O3-ISP" target="_blank"><img src="images/car2.JPG"></a>
+        </div>
+    </div>
+    <br>
+    <h1>ICS3U3 My Creation</h1>
+    <hr/>
+    <br>
+    <p>This was one of the first major project within ICS3U3. It was an animation project using Java drawing commands,
+        for loops, and delays.
+        For the project we had to choose a theme, my theme was about scary monsters. This was a good introduction to
+        some java basics and I had fun making this project. If you click on the images, it will link you to my github
+        repository for the project.</p>
+    <br>
+    <div class="row">
+        <div class="row-align mx-auto d-block">
+            <a href="" target="_blank"><img src="images/mc.jpg"></a>
+            <a href="#" target="_blank"><img src="images/mc2.jpg"></a>
+        </div>
+    </div>
+    <br>
+    <h1>ICS3U3 ISP: Wheel Of Fortune</h1>
+    <hr/>
+    <p>This was my last big project in ICS3U3. It was our culminating, I was given the task to build a Wheel of Fortune
+        game from scratch. It was tedious sometimes, yet I think I have learned some important concepts through this
+        project. If you click on the images, it will link you to my github repository for the project.</p>
+    <br>
+    <div class="row">
+        <div class="row-align mx-auto d-block">
+            <a href="https://github.com/TOBAIS123/ICS3U3-ISP" target="_blank"><img src="images/WoFMP.png"></a>
+            <a href="https://github.com/TOBAIS123/ICS3U3-ISP" target="_blank"><img src="images/WoF.png"></a>
+        </div>
+    </div>
+</div>
+
+<div class="contents m-font">
+    <h1>My Other Projects</h1>
+    <hr/>
+    <div class = "container">
+                <ul class="list-unstyled">
+                    <li>
+                        <a href="https://github.com/TOBAIS123/ICS4U0" class="text-light"><img src="images/github.png" alt="git" class="mr-3"/></a>
+                        <a href="https://github.com/TOBAIS123/ICS4U0"><h2 class="text-light">Github</h2></a>
+                            <a href="https://github.com/TOBAIS123/ICS4U0" class="text-light">https://github.com/TOBAIS123/ICS4U0</a>
+                            <p>My github stores all the projects I have up to date (except ICS2O3) including example problems and programs</p>
+                    </li>
+                    <li>
+                        <a href="https://github.com/TOBAIS123/ICS4U0" class="text-light"><img src="images/wlmoj.png" alt="wlomj" class="mr-3 bg-light"/></a>
+                            <a href= "https://judge.mcpt.ca/user/inglume">
+                                <h2 class="text-light">WLMOJ</h2></a>
+                            <a href="https://judge.mcpt.ca/user/inglume" class = "text-light">https://judge.mcpt.ca/user/inglume</a>
+                            <p>My schools online judge, where I have attempted some programming problems</p>
+                    </li>
+                </ul>
+            </div>
+    </div>
+<!--Bootstrap imports-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<!--navbar js-->
+<script src="js_app/navOptions.js"></script>
+</body>
+</html>

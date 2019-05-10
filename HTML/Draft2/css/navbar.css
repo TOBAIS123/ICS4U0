@@ -1,0 +1,63 @@
+
+
+.menubtn {
+    font-size:30px;
+    cursor:pointer;
+    color: #f1f1f1;
+}
+
+.overlay-nav {
+    font-family: 'Raleway', sans-serif;
+    height: 0%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0, 0.92);
+    overflow-y: hidden;
+    transition: 0.5s;
+}
+
+.relative-center {
+    position: relative;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay-nav a {
+    padding: 20px;
+    text-decoration: none;
+    font-size: 40px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay-nav a:hover {
+    color: #e2e2e2;
+    font-size: 60px;
+    letter-spacing: 0.3em;
+    text-decoration: none;
+
+}
+
+.overlay-nav .closebtn{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    font-size: 50px;
+}
+
+/*for smaller screens, the nav screen is adjusted*/
+@media screen and (max-height: 450px) {
+    .overlay-nav {overflow-y: auto;}
+    .overlay-nav a {font-size: 20px}
+    .overlay-nav .closebtn {
+        font-size: 40px;
+        top: 15px;
+        right: 35px;
+    }
+}
